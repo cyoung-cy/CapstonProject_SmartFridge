@@ -1,0 +1,78 @@
+[
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-mergeDebugResources-47:\\layout\\activity_recipe.xml",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\layout\\activity_recipe.xml"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-mergeDebugResources-47:\\layout\\viewholder_categoty.xml",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\layout\\viewholder_categoty.xml"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-mergeDebugResources-47:\\layout\\recipe_item.xml",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\layout\\recipe_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-mergeDebugResources-47:\\layout\\item_ingredient.xml",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\layout\\item_ingredient.xml"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-mergeDebugResources-47:\\layout\\item_recipe.xml",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\layout\\item_recipe.xml"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-mergeDebugResources-47:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-mergeDebugResources-47:\\layout\\activity_signin.xml",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\layout\\activity_signin.xml"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-mergeDebugResources-47:\\layout\\dialog_detection_result.xml",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\layout\\dialog_detection_result.xml"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-mergeDebugResources-47:\\layout\\viewholder_list_recipe.xml",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\layout\\viewholder_list_recipe.xml"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-mergeDebugResources-47:\\layout\\custom_dialog.xml",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\layout\\custom_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-mergeDebugResources-47:\\layout\\popup_shopping_sites.xml",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\layout\\popup_shopping_sites.xml"
+    },
+    {
+        "merged": "com.tensorflow.codelabs.objectdetection.app-mergeDebugResources-47:/layout/activity_recipe.xml",
+        "source": "com.tensorflow.codelabs.objectdetection.app-main-50:/layout/activity_recipe.xml"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-mergeDebugResources-47:\\layout\\viewholder_ingredients.xml",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\layout\\viewholder_ingredients.xml"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-mergeDebugResources-47:\\layout\\dialog_input.xml",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\layout\\dialog_input.xml"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-mergeDebugResources-47:\\layout\\dialog_with_buttons.xml",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\layout\\dialog_with_buttons.xml"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-mergeDebugResources-47:\\layout\\activity_recipe_detail.xml",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\layout\\activity_recipe_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-mergeDebugResources-47:\\layout\\activity_sign_up.xml",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\layout\\activity_sign_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-mergeDebugResources-47:\\layout\\activity_ingredient.xml",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\layout\\activity_ingredient.xml"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-mergeDebugResources-47:\\layout\\activity_saved_ingredients.xml",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\layout\\activity_saved_ingredients.xml"
+    }
+]

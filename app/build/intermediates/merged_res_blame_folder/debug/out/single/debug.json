@@ -1,0 +1,886 @@
+[
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable-xxhdpi_favorite_white.png.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable-xxhdpi\\favorite_white.png"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable-xxxhdpi_search_icon.png.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable-xxxhdpi\\search_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable-ldpi_logout.png.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable-ldpi\\logout.png"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable-xxhdpi_location.png.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable-xxhdpi\\location.png"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable_placeholder_image.jpg.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable\\placeholder_image.jpg"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable-mdpi_dollar.png.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable-mdpi\\dollar.png"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable-hdpi_google.png.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable-hdpi\\google.png"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\layout_activity_recipe_detail.xml.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\layout\\activity_recipe_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable-hdpi_btn_2.png.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable-hdpi\\btn_2.png"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable_edittext_background.xml.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable\\edittext_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable-xhdpi_arc.png.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable-xhdpi\\arc.png"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable-ldpi_orange_background.png.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable-ldpi\\orange_background.png"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable-xhdpi_google.png.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable-xhdpi\\google.png"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable-xhdpi_basket.png.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable-xhdpi\\basket.png"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable-ldpi_settings.png.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable-ldpi\\settings.png"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable-xxxhdpi_btn_1.png.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable-xxxhdpi\\btn_1.png"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable-hdpi_btn_3.png.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable-hdpi\\btn_3.png"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable_pink_button_background.xml.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable\\pink_button_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.tensorflow.codelabs.objectdetection.app-merged_res-48:/layout_activity_recipe.xml.flat",
+        "source": "com.tensorflow.codelabs.objectdetection.app-main-50:/layout/activity_recipe.xml"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable-hdpi_basket.png.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable-hdpi\\basket.png"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable-mdpi_arc.png.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable-mdpi\\arc.png"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable-xxxhdpi_time.png.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable-xxxhdpi\\time.png"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable-xxhdpi_time.png.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable-xxhdpi\\time.png"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable-xhdpi_btn_8.png.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable-xhdpi\\btn_8.png"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable-mdpi_favorite_white.png.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable-mdpi\\favorite_white.png"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable-ldpi_btn_7.png.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable-ldpi\\btn_7.png"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable_plus_background.xml.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable\\plus_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable-mdpi_intro_pic.png.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable-mdpi\\intro_pic.png"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable-ldpi_basket.png.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable-ldpi\\basket.png"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable-xhdpi_orange_background.png.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable-xhdpi\\orange_background.png"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\layout_custom_dialog.xml.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\layout\\custom_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable-xxxhdpi_basket.png.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable-xxxhdpi\\basket.png"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable-mdpi_twitter.png.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable-mdpi\\twitter.png"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable-xxxhdpi_settings.png.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable-xxxhdpi\\settings.png"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable-xhdpi_twitter.png.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable-xhdpi\\twitter.png"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\layout_viewholder_categoty.xml.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\layout\\viewholder_categoty.xml"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\mipmap-xxxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable-hdpi_logout.png.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable-hdpi\\logout.png"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable-xxxhdpi_star.png.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable-xxxhdpi\\star.png"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable-xxhdpi_btn_7.png.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable-xxhdpi\\btn_7.png"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable-mdpi_btn_1.png.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable-mdpi\\btn_1.png"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable_ic_close.png.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable\\ic_close.png"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable-hdpi_favorite_white.png.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable-hdpi\\favorite_white.png"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable-hdpi_btn_1.png.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable-hdpi\\btn_1.png"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable_rounded_item_background.xml.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable\\rounded_item_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable-xxxhdpi_btn_3.png.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable-xxxhdpi\\btn_3.png"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable-hdpi_btn_4.png.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable-hdpi\\btn_4.png"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable-xhdpi_logo.png.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable-xhdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable_cat_5_background.xml.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable\\cat_5_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable-xxhdpi_twitter.png.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable-xxhdpi\\twitter.png"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable-mdpi_google.png.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable-mdpi\\google.png"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable-hdpi_btn_6.png.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable-hdpi\\btn_6.png"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable-xxxhdpi_btn_4.png.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable-xxxhdpi\\btn_4.png"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable-ldpi_twitter.png.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable-ldpi\\twitter.png"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable-hdpi_dollar.png.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable-hdpi\\dollar.png"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable-xhdpi_dollar.png.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable-xhdpi\\dollar.png"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable-ldpi_btn_5.png.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable-ldpi\\btn_5.png"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable-xxhdpi_star.png.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable-xxhdpi\\star.png"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable-hdpi_search_icon.png.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable-hdpi\\search_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable-ldpi_google.png.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable-ldpi\\google.png"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable-xhdpi_btn_6.png.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable-xhdpi\\btn_6.png"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable-hdpi_btn_5.png.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable-hdpi\\btn_5.png"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable_ic_coupang.jpg.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable\\ic_coupang.jpg"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable-xhdpi_btn_7.png.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable-xhdpi\\btn_7.png"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\layout_activity_signin.xml.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\layout\\activity_signin.xml"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable_zeroimage.jpg.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable\\zeroimage.jpg"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable-hdpi_settings.png.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable-hdpi\\settings.png"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable-hdpi_intro_pic.png.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable-hdpi\\intro_pic.png"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\layout_recipe_item.xml.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\layout\\recipe_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable-ldpi_search_icon.png.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable-ldpi\\search_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable-ldpi_btn_6.png.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable-ldpi\\btn_6.png"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable-ldpi_favorite_white.png.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable-ldpi\\favorite_white.png"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\layout_dialog_with_buttons.xml.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\layout\\dialog_with_buttons.xml"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable-ldpi_facebook.png.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable-ldpi\\facebook.png"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\layout_viewholder_ingredients.xml.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\layout\\viewholder_ingredients.xml"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable-xhdpi_intro_pic.png.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable-xhdpi\\intro_pic.png"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable-xxxhdpi_logout.png.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable-xxxhdpi\\logout.png"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\mipmap-mdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable_cat_7_background.xml.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable\\cat_7_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\layout_dialog_input.xml.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\layout\\dialog_input.xml"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable-xhdpi_search_icon.png.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable-xhdpi\\search_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\layout_activity_recipe.xml.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\layout\\activity_recipe.xml"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable-xhdpi_cart.png.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable-xhdpi\\cart.png"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable-xxhdpi_cart.png.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable-xxhdpi\\cart.png"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable-xxxhdpi_btn_5.png.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable-xxxhdpi\\btn_5.png"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable-xxhdpi_arrow.png.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable-xxhdpi\\arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable-xxhdpi_intro_pic.png.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable-xxhdpi\\intro_pic.png"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\mipmap-xxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable_oneimage.png.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable\\oneimage.png"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable-mdpi_btn_5.png.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable-mdpi\\btn_5.png"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable-xxhdpi_btn_8.png.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable-xxhdpi\\btn_8.png"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable-xhdpi_logout.png.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable-xhdpi\\logout.png"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable-xxhdpi_logo.png.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable-xxhdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable-hdpi_twitter.png.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable-hdpi\\twitter.png"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable-xhdpi_btn_1.png.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable-xhdpi\\btn_1.png"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable-mdpi_location.png.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable-mdpi\\location.png"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable-ldpi_dollar.png.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable-ldpi\\dollar.png"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\mipmap-hdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable-mdpi_orange_background.png.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable-mdpi\\orange_background.png"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable-mdpi_logout.png.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable-mdpi\\logout.png"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable-hdpi_facebook.png.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable-hdpi\\facebook.png"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable-xxxhdpi_google.png.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable-xxxhdpi\\google.png"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable-xxxhdpi_dollar.png.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable-xxxhdpi\\dollar.png"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\xml_file_paths.xml.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\xml\\file_paths.xml"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable-ldpi_btn_2.png.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable-ldpi\\btn_2.png"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable_cat_0_background.xml.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable\\cat_0_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable-hdpi_logo.png.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable-hdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable-hdpi_location.png.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable-hdpi\\location.png"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable-xxxhdpi_location.png.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable-xxxhdpi\\location.png"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable-xxhdpi_btn_2.png.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable-xxhdpi\\btn_2.png"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable-mdpi_btn_7.png.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable-mdpi\\btn_7.png"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable-mdpi_settings.png.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable-mdpi\\settings.png"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable-xxxhdpi_arrow.png.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable-xxxhdpi\\arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable-xhdpi_facebook.png.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable-xhdpi\\facebook.png"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable-xhdpi_btn_3.png.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable-xhdpi\\btn_3.png"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable-hdpi_cart.png.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable-hdpi\\cart.png"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\mipmap-xhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable-xxxhdpi_btn_7.png.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable-xxxhdpi\\btn_7.png"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable_cat_1_background.xml.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable\\cat_1_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable-mdpi_arrow.png.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable-mdpi\\arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable-mdpi_time.png.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable-mdpi\\time.png"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable-ldpi_btn_3.png.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable-ldpi\\btn_3.png"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable-ldpi_star.png.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable-ldpi\\star.png"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable-xxhdpi_btn_3.png.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable-xxhdpi\\btn_3.png"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable-ldpi_intro_pic.png.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable-ldpi\\intro_pic.png"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable-mdpi_btn_6.png.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable-mdpi\\btn_6.png"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\layout_viewholder_list_recipe.xml.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\layout\\viewholder_list_recipe.xml"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable-xhdpi_time.png.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable-xhdpi\\time.png"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable-mdpi_search_icon.png.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable-mdpi\\search_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable-xxhdpi_logout.png.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable-xxhdpi\\logout.png"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable-xxxhdpi_btn_8.png.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable-xxxhdpi\\btn_8.png"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable_cookbook_746005_1280.jpg.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable\\cookbook_746005_1280.jpg"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\layout_activity_sign_up.xml.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\layout\\activity_sign_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable_popup_shopping_sites.xml.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable\\popup_shopping_sites.xml"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable-hdpi_star.png.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable-hdpi\\star.png"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable-mdpi_star.png.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable-mdpi\\star.png"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable-ldpi_location.png.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable-ldpi\\location.png"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable_cat_3_background.xml.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable\\cat_3_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable-xxhdpi_arc.png.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable-xxhdpi\\arc.png"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable-xxhdpi_basket.png.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable-xxhdpi\\basket.png"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable_rounded_edittext.xml.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable\\rounded_edittext.xml"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable_round_button.xml.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable\\round_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable-xxxhdpi_facebook.png.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable-xxxhdpi\\facebook.png"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable-xxxhdpi_orange_background.png.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable-xxxhdpi\\orange_background.png"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable-xhdpi_location.png.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable-xhdpi\\location.png"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable-hdpi_orange_background.png.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable-hdpi\\orange_background.png"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable-hdpi_btn_7.png.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable-hdpi\\btn_7.png"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\layout_activity_saved_ingredients.xml.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\layout\\activity_saved_ingredients.xml"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable-xxxhdpi_intro_pic.png.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable-xxxhdpi\\intro_pic.png"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable-ldpi_cart.png.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable-ldpi\\cart.png"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable-xxxhdpi_twitter.png.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable-xxxhdpi\\twitter.png"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable-ldpi_btn_1.png.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable-ldpi\\btn_1.png"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable-xxhdpi_btn_1.png.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable-xxhdpi\\btn_1.png"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\layout_dialog_detection_result.xml.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\layout\\dialog_detection_result.xml"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable-ldpi_arc.png.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable-ldpi\\arc.png"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable-xhdpi_star.png.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable-xhdpi\\star.png"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable_grey_background.xml.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable\\grey_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable-xhdpi_btn_2.png.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable-xhdpi\\btn_2.png"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable_cat_2_background.xml.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable\\cat_2_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable-xxxhdpi_btn_6.png.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable-xxxhdpi\\btn_6.png"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable-xhdpi_btn_5.png.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable-xhdpi\\btn_5.png"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable_red_button_background.xml.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable\\red_button_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable-xxxhdpi_logo.png.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable-xxxhdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\layout_popup_shopping_sites.xml.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\layout\\popup_shopping_sites.xml"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable-mdpi_btn_4.png.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable-mdpi\\btn_4.png"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable-ldpi_btn_4.png.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable-ldpi\\btn_4.png"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable-xxhdpi_btn_4.png.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable-xxhdpi\\btn_4.png"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable-hdpi_arc.png.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable-hdpi\\arc.png"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable-xxhdpi_btn_6.png.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable-xxhdpi\\btn_6.png"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable-mdpi_logo.png.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable-mdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable-xxhdpi_search_icon.png.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable-xxhdpi\\search_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable-xhdpi_favorite_white.png.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable-xhdpi\\favorite_white.png"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable_ic_camera.xml.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable\\ic_camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable_cat_6_background.xml.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable\\cat_6_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable-mdpi_btn_3.png.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable-mdpi\\btn_3.png"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable-xxxhdpi_favorite_white.png.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable-xxxhdpi\\favorite_white.png"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable-xxhdpi_settings.png.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable-xxhdpi\\settings.png"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable-xxhdpi_btn_5.png.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable-xxhdpi\\btn_5.png"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable-xhdpi_arrow.png.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable-xhdpi\\arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable-mdpi_facebook.png.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable-mdpi\\facebook.png"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable_cat_4_background.xml.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable\\cat_4_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable-xhdpi_settings.png.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable-xhdpi\\settings.png"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\layout_item_ingredient.xml.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\layout\\item_ingredient.xml"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable-hdpi_time.png.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable-hdpi\\time.png"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable-mdpi_basket.png.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable-mdpi\\basket.png"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable-ldpi_logo.png.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable-ldpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable-xxxhdpi_cart.png.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable-xxxhdpi\\cart.png"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable-xxxhdpi_arc.png.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable-xxxhdpi\\arc.png"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable-mdpi_btn_2.png.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable-mdpi\\btn_2.png"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable-xxhdpi_orange_background.png.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable-xxhdpi\\orange_background.png"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable-hdpi_btn_8.png.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable-hdpi\\btn_8.png"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\layout_activity_ingredient.xml.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\layout\\activity_ingredient.xml"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable-xhdpi_btn_4.png.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable-xhdpi\\btn_4.png"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable-ldpi_btn_8.png.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable-ldpi\\btn_8.png"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable-ldpi_arrow.png.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable-ldpi\\arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable-xxxhdpi_btn_2.png.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable-xxxhdpi\\btn_2.png"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable-hdpi_arrow.png.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable-hdpi\\arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable-xxhdpi_google.png.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable-xxhdpi\\google.png"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable-xxhdpi_dollar.png.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable-xxhdpi\\dollar.png"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable_ic_naver.png.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable\\ic_naver.png"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\layout_item_recipe.xml.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\layout\\item_recipe.xml"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable-mdpi_btn_8.png.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable-mdpi\\btn_8.png"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable-ldpi_time.png.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable-ldpi\\time.png"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable_pexels_ella_olsson_572949_1640773.jpg.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable\\pexels_ella_olsson_572949_1640773.jpg"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable-xxhdpi_facebook.png.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable-xxhdpi\\facebook.png"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-pngs-43:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-merged_res-48:\\drawable-mdpi_cart.png.flat",
+        "source": "C:\\Users\\smg99\\.gradle\\daemon\\8.5\\com.tensorflow.codelabs.objectdetection.app-main-50:\\drawable-mdpi\\cart.png"
+    }
+]

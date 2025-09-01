@@ -1,0 +1,74 @@
+plugins {
+    id 'com.android.application'
+    id 'kotlin-android'
+    id 'com.google.gms.google-services'
+}
+
+android {
+    compileSdkVersion 34
+    namespace 'com.tensorflow.codelabs.objectdetection'
+
+    defaultConfig {
+        applicationId "org.tensorflow.codelabs.objectdetection" //패키지명
+        minSdkVersion 23
+        targetSdkVersion 34
+        versionCode 1
+        versionName "1.0"
+
+        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+        }
+    }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+    kotlinOptions {
+        jvmTarget = '1.8'
+    }
+    buildFeatures {
+        viewBinding true
+    }
+}
+
+dependencies {
+
+    // 기존 의존성
+    implementation "org.jetbrains.kotlin:kotlin-stdlib:$kotlin_version"
+    implementation 'androidx.core:core-ktx:1.9.0'  // 버전 업데이트
+    implementation 'androidx.appcompat:appcompat:1.6.0' // 버전 업데이트
+    implementation 'com.google.android.material:material:1.7.0' // 버전 업데이트
+    implementation 'androidx.constraintlayout:constraintlayout:2.1.4' // 버전 업데이트
+    implementation 'org.jetbrains.kotlinx:kotlinx-coroutines-core:1.6.4' // 버전 업데이트
+    implementation 'androidx.lifecycle:lifecycle-runtime-ktx:2.6.1' // 버전 업데이트
+    implementation 'androidx.exifinterface:exifinterface:1.3.3' // 버전 업데이트
+    implementation 'org.tensorflow:tensorflow-lite:2.12.0' // 최신 TensorFlow Lite
+    implementation 'org.tensorflow:tensorflow-lite-support:0.4.0' // 최신 TensorFlow Lite 지원 라이브러리
+    implementation 'org.tensorflow:tensorflow-lite-task-vision:0.4.0' // 최신 객체 감지 라이브러리
+
+    // Activity Result API 최신 버전 추가
+    implementation 'androidx.activity:activity-ktx:1.8.0' // 최신 버전
+    implementation 'androidx.activity:activity:1.8.0' // 최신 버전
+    // Import the Firebase BoM
+    implementation platform('com.google.firebase:firebase-bom:33.6.0')
+// Add the dependency for the Firebase SDK for Google Analytics
+// When using the BoM, don't specify versions in Firebase dependencies
+    implementation 'com.google.firebase:firebase-analytics-ktx'
+    implementation 'com.google.firebase:firebase-auth:23.1.0'  // Firebase Auth 종속성 추가
+    implementation 'com.google.firebase:firebase-database-ktx'
+    implementation 'com.google.firebase:firebase-firestore-ktx:25.1.1'
+    testImplementation 'junit:junit:4.13.2'
+    androidTestImplementation 'androidx.test.ext:junit:1.2.1'
+    androidTestImplementation 'androidx.test.espresso:espresso-core:3.6.1'
+    implementation("com.squareup.okhttp3:okhttp:4.10.0")
+    implementation("com.squareup.okhttp3:okhttp-urlconnection:4.10.0")
+    implementation 'com.github.bumptech.glide:glide:4.12.0'
+    implementation 'com.google.android.material:material:1.9.0'
+    annotationProcessor 'com.github.bumptech.glide:compiler:4.12.0'
+
+}
