@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <color name="black">#FF000000</color>
+    <color name="blue_grey">#2E4058</color>
+    <color name="grey">#F5F5F5</color>
+    <color name="ic_launcher_background">#FFFFFF</color>
+    <color name="pink">#F8B5BB</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="red">#F75564</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="yellow">#FFC801</color>
+    <string name="app_name">SmartFridge</string>
+    <string name="default_web_client_id" translatable="false">742230429128-t7valoq7k3s2o704a5biuriliots3il5.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://smartfridge-ce5da-default-rtdb.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">742230429128</string>
+    <string name="google_api_key" translatable="false">AIzaSyCjm44L5hgACst5pdVbVPzKOpd31OUSvrc</string>
+    <string name="google_app_id" translatable="false">1:742230429128:android:1a2def61a41c85674ac4fd</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCjm44L5hgACst5pdVbVPzKOpd31OUSvrc</string>
+    <string name="google_storage_bucket" translatable="false">smartfridge-ce5da.firebasestorage.app</string>
+    <string name="project_id" translatable="false">smartfridge-ce5da</string>
+    <string name="tv_description">인식할 이미지를 선택해 주세요</string>
+    <string name="tv_placeholder">사진을 올려주세요</string>
+    <string name="tv_take_photo">Take photo</string>
+    <style name="LoginTextInputInnerFieldStyle">
+        <item name="android:padding">8dp</item>
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+    <style name="LoginTextInputOuterFieldStyle">
+        <item name="android:layout_margin">16dp</item>
+        <item name="android:background">@color/yellow</item>
+    </style>
+    <style name="Theme.ObjectDetection" parent="Theme.MaterialComponents.Light.NoActionBar">
+        
+        <item name="colorPrimary">@color/red</item>
+        <item name="colorPrimaryVariant">@color/pink</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        
+        <item name="android:statusBarColor" ns1:targetApi="l">?attr/colorPrimaryVariant</item>
+        
+    </style>
+</resources>

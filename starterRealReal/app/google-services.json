@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "742230429128",
+    "firebase_url": "https://smartfridge-ce5da-default-rtdb.firebaseio.com",
+    "project_id": "smartfridge-ce5da",
+    "storage_bucket": "smartfridge-ce5da.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:742230429128:android:1a2def61a41c85674ac4fd",
+        "android_client_info": {
+          "package_name": "org.tensorflow.codelabs.objectdetection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "742230429128-ll6ffkvvknct566gi07o1snukpm760e6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.tensorflow.codelabs.objectdetection",
+            "certificate_hash": "112b0fd5a9e9990ea5a54455ea8abfcc4487722f"
+          }
+        },
+        {
+          "client_id": "742230429128-t7valoq7k3s2o704a5biuriliots3il5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjm44L5hgACst5pdVbVPzKOpd31OUSvrc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "742230429128-t7valoq7k3s2o704a5biuriliots3il5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
